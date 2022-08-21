@@ -6,7 +6,30 @@
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://molaco.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://molaco.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test Post</title>
+        <link>https://molaco.github.io/p/test-post/</link>
+        <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://molaco.github.io/p/test-post/</guid>
+        <description>&lt;img src="https://molaco.github.io/p/test-post/test_cover.jpg" alt="Featured image of post Test Post" /&gt;&lt;h1 id=&#34;this-is-a-test-title&#34;&gt;This is a test Title&lt;/h1&gt;
+&lt;h2 id=&#34;this-is-a-test-subtitle&#34;&gt;This is a test Subtitle&lt;/h2&gt;
+&lt;h3 id=&#34;test-subsubtilte&#34;&gt;Test subsubtilte&lt;/h3&gt;
+&lt;p&gt;code test:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;def myfunc();&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bullet point test&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;List test&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;** Image test **
+![Image 1] (test_image.jpg)&lt;/p&gt;
+&lt;p&gt;![Image 2] (&lt;a class=&#34;link&#34; href=&#34;https://i.pinimg.com/originals/10/91/94/1091948c6b80b65b9eef8c163f0ae42a.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://i.pinimg.com/originals/10/91/94/1091948c6b80b65b9eef8c163f0ae42a.jpg&lt;/a&gt;)&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://molaco.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
