@@ -75,18 +75,6 @@
     <loc>https://molaco.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://molaco.github.io/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://molaco.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://molaco.github.io/zh-cn/page/"
-                />
-  </url><url>
     <loc>https://molaco.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -102,18 +90,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://molaco.github.io/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>https://molaco.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://molaco.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://molaco.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>

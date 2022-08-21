@@ -98,16 +98,6 @@
   </url><url>
     <loc>https://molaco.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://molaco.github.io/zh-cn/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://molaco.github.io/page/"
-                />
   </url><url>
     <loc>https://molaco.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -172,16 +162,6 @@
   </url><url>
     <loc>https://molaco.github.io/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://molaco.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://molaco.github.io/about/"
-                />
   </url><url>
     <loc>https://molaco.github.io/links/</loc>
   </url><url>
